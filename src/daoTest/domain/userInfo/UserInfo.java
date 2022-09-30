@@ -1,5 +1,12 @@
 package daoTest.domain.userInfo;
 
+/** 
+ * The UserInfo class holds user id, password and name.
+ * 
+ * @author Seulgi Kim
+ *
+ */
+
 public class UserInfo {
 	
 	private String userId;
